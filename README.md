@@ -45,7 +45,7 @@ Me motiva resolver problemas reales con soluciones elegantes y escalables. Creo 
 
 ### 📫 Contacto
 - 🌐 [Portafolio Web](https://jeremiasstorm.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeremiasstorm)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/jeremiasstorm](https://www.linkedin.com/in/jerestormdev/))
 
 ---
 
