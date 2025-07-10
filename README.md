@@ -14,11 +14,6 @@ Además, soy el fundador de **CaliStorm**, un emprendimiento donde combino tecno
 ---
 
 ### 🛠️ Tech Stack
-Perfecto. Acá tenés una versión ampliada y más descriptiva de esa sección con las tecnologías que aparecen en tu portfolio:
-
----
-
-### 🧠 Tecnologías y herramientas que utilizo
 
 * **Frontend:**
   Trabajo con frameworks y librerías modernas como **Angular**, **React** y **Next.js**, combinándolos con tecnologías de estilo como **TailwindCSS**, **Bootstrap**, y los fundamentos sólidos de **HTML5** y **CSS3**. Esto me permite construir interfaces responsivas, rápidas y accesibles tanto para web como para dispositivos móviles.
